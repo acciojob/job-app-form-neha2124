@@ -1,2 +1,23 @@
-
+body{
+    position: absolute;
+}
+.job_app{
+    position: relative;
+    top: 7%;
+    left: 45em;
+    margin: 10px;
+}
+label{
+    margin: 10px;
+}
+input{
+    display: block;
+    margin: 10px;
+    padding: 5px;
+    
+    
+}
+.gen{
+    display: inline-block;
+}
 /* Your CSS Code here. */
